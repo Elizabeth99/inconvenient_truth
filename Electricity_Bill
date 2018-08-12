@@ -1,0 +1,16 @@
+import java.io.*;
+class ElectricBill
+{public static void main(Srting args[]) throws IOException
+static BufferedReader in=new  BufferedReader(new inputStreamReader(System.in());
+String n;
+int units;
+double bill;
+ElectricBill()
+{
+n=" ";
+units=0;
+bil=0.0;}
+
+void accept()
+{
+System.out.println("Enter name:");
